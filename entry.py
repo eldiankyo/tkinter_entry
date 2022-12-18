@@ -16,7 +16,7 @@ def login_clicked():
     showinfo(title='Information', message=msg)
 
 
-# Sing in frame
+# Sign in frame
 signin = ttk.Frame(root)
 signin.pack(padx=10, pady=10, fill='x', expand=True)
 
